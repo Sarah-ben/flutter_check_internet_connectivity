@@ -7,6 +7,7 @@
 A list of technologies used within the project:
 * Bloc
 * Equatable
+* connectivity_plus
 
 ## general info
 - Bloc(cubit) is a state (data) management
